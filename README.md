@@ -1,4 +1,4 @@
-# GeldiGeliyor
+# Geldi Geliyor
 GeldiGeliyor is a C# windows form application which is created for online marketing. We have two windows form screen. First windows form is about marketing and second windows form screen is about seeind the ordered invoice.
 
 ## Market Screen
